@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.facebook{
+    background-color: #3E74EA;
+    color: #fff;
+    display: inline-block;
+    border-radius:50%;
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+    font-size: 155px;
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+.f{
+    position: absolute;
+    bottom: -44%;
+    left: 32%;
+}
